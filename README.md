@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gabrielSpassos/gabrielspassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi, I'm Gabriel Passos👋 </br>
+ I'm a Back-End Developer.
+</h2>
+
+<i>Follow me:</i><br>
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsantos45725@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-passos-643069144/)
