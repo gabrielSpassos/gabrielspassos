@@ -8,6 +8,6 @@
 Working at [Hype Flame](https://hypeflame.com.br/)
 
 <p style="margin: 0;">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielspassos&show_icons=true&theme=tokyonight"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielspassos&layout=compact&theme=tokyonight"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielspassos&show_icons=true&theme=tokyonight" width="350" height="200" style="margin-right:24px;"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielspassos&layout=compact&theme=tokyonight" width="350" height="200" style="margin-right:24px;"></a>
 </p>
